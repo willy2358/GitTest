@@ -1,0 +1,13 @@
+E:\Test\TestGitCommands\GitTest\TestGitCommands\bin\Debug\TestGitCommands.exe.config
+E:\Test\TestGitCommands\GitTest\TestGitCommands\bin\Debug\TestGitCommands.exe
+E:\Test\TestGitCommands\GitTest\TestGitCommands\bin\Debug\TestGitCommands.pdb
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.csprojResolveAssemblyReference.cache
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\MainWindow.baml
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\MainWindow.g.cs
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\App.g.cs
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands_MarkupCompile.cache
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.g.resources
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.Properties.Resources.resources
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.csproj.GenerateResource.Cache
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.exe
+E:\Test\TestGitCommands\GitTest\TestGitCommands\obj\Debug\TestGitCommands.pdb
