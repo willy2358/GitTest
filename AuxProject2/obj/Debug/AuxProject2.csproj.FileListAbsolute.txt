@@ -1,0 +1,16 @@
+E:\Test\TestGitCommands\GitTest\AuxProject2\bin\Debug\AuxProject2.exe.config
+E:\Test\TestGitCommands\GitTest\AuxProject2\bin\Debug\AuxProject2.exe
+E:\Test\TestGitCommands\GitTest\AuxProject2\bin\Debug\AuxProject2.pdb
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\MainWindow.baml
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\Window3.baml
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\Window4.baml
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\MainWindow.g.cs
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\Window3.g.cs
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\Window4.g.cs
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\App.g.cs
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2_MarkupCompile.cache
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2.g.resources
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2.Properties.Resources.resources
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2.csproj.GenerateResource.Cache
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2.exe
+E:\Test\TestGitCommands\GitTest\AuxProject2\obj\Debug\AuxProject2.pdb
